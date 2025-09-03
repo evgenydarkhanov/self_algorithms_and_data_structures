@@ -34,6 +34,7 @@ Python 3.10.12
 | 015. | counting sort class | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/04_sortings/015_counting_sort_class.py) |
 | 016. | counting sort neg | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/04_sortings/016_counting_sort_neg.py) |
 | 017. | radix sort | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/04_sortings/017_radix_sort.py) |
+| 038. | heapsort | vk x hse | [link]() |
 
 ### 5. Trees
 |      | title | source | link |
@@ -59,3 +60,10 @@ Python 3.10.12
 | 029. | naive substring search | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/029_naive_substring_search.py) |
 | 030. | less naive substring search | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/030_less_naive_substring_search.py) |
 | 031. | rotate string | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/031_rotate_string.py) |
+
+| 032. | graph BFS | vk x hse | [link]() |
+| 033. | graph DFS iterative | vk x hse | [link]() |
+| 034. | graph DFS recursive | vk x hse | [link]() |
+| 035. | path DFS | vk x hse | [link]() |
+| 036. | path BFS | vk x hse | [link]() |
+| 037. | path BFS shortest | vk x hse | [link]() |
