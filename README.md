@@ -70,3 +70,30 @@ Python 3.10.12
 | 035. | path DFS | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/08_graphs/035_path_dfs.py) |
 | 036. | path BFS | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/08_graphs/036_path_bfs.py) |
 | 037. | path BFS shortest | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/08_graphs/037_path_bfs_shortest.py) |
+
+### 9. Dynamic Programming
+|      | title | source | link |
+| :--- | :---- | :----- | :--- |
+| 039. | fibonacci | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/039_fibonacci.py) |
+| 040. | fibonacci memo | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/040_fibonacci_memo.py) |
+| 041. | fibonacci iter | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/041_fibonacci_iter.py) |
+| 042. | ladder | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/042_ladder.py) |
+
+### 10. Greedy Algorithms
+|      | title | source | link |
+| :--- | :---- | :----- | :--- |
+| 043. | jumps | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/10_greedy/043_jumps.py) |
+| 046. | most water | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/10_greedy/046_container_with_most_water.py) |
+
+### 11. Problems
+|      | title | source | link |
+| :--- | :---- | :----- | :--- |
+| 044. | more than half | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/044_more_than_half.py) |
+| 045. | more than half opt | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/045_more_than_half_opt.py) |
+| 047. | product array | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/047_product_array.py) |
+| 048. | product array opt | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/048_product_array_opt.py) |
+
+### 12. Problems LeetCode
+|      | title | source | link |
+| :--- | :---- | :----- | :--- |
+| 0198. | house robber | [link](https://leetcode.com/problems/house-robber/description/) | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/12_problems_leetcode/0198_house_robber.py) |
