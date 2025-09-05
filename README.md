@@ -20,6 +20,7 @@ Python 3.10.12
 | 005. | reverse linked list | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/005_reverse_linked_list.py) |
 | 007. | cycle in linked list | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/007_cycle_in_linked_list.py) |
 | 026. | remove node | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/026_remove_node.py) |
+| 051. | reverse linked list stack | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/051_reverse_linked_list_stack.py) |
 
 ### 4. Sortings
 |      | title | source | link |
@@ -48,6 +49,7 @@ Python 3.10.12
 | 024. | is BST | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/024_is_bst.py) |
 | 025. | build BST | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/025_build_bst.py) |
 | 028. | n large | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/028_n_max.py) |
+| 050. | BST to SLL | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/050_bst_to_sll.py) |
 
 ### 6. Implementations
 |      | title | source | link |
@@ -92,6 +94,7 @@ Python 3.10.12
 | 045. | more than half opt | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/045_more_than_half_opt.py) |
 | 047. | product array | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/047_product_array.py) |
 | 048. | product array opt | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/048_product_array_opt.py) |
+| 049. | sum equal k | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/049_sum_equal_k.py) |
 
 ### 12. Problems LeetCode
 |      | title | source | link |
