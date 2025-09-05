@@ -8,7 +8,7 @@ class LRUCache:
             value = self.cache[key]
             del self.cache[key]
             self.cache[key] = value
-            return val
+            return value
 
     def set(self, key):
         if key in self.cache:
