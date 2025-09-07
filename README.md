@@ -13,6 +13,11 @@ Python 3.10.12
 | 003. | reverse array | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/003_reverse_array.py) |
 | 006. | sum equal k | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/006_sum_equal_k.py) |
 | 058. | strict order | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/058_strict_order.py) |
+| 060. | forward evens | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/060_forward_evens.py) |
+| 061. | last even | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/061_last_even.py) |
+| 062. | brackets check | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/061_brackets_check.py) |
+| 064. | rotate matrix right | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/064_rotate_matrix_right.py) |
+| 065. | rotate matrix left | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/065_rotate_matrix_left.py) |
 
 ### 3. Linked Lists
 |      | title | source | link |
@@ -65,6 +70,7 @@ Python 3.10.12
 | 030. | less naive substring search | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/030_less_naive_substring_search.py) |
 | 031. | rotate string | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/031_rotate_string.py) |
 | 057. | longest unique substring | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/058_longest_unique_substring.py) |
+| 063. | drop near duplicates | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/063_drop_near_duplicates.py) |
 
 ### 8. Graphs
 |      | title | source | link |
