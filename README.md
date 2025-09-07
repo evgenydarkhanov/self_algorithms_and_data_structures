@@ -12,6 +12,7 @@ Python 3.10.12
 | :--- | :---- | :----- | :--- |
 | 003. | reverse array | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/003_reverse_array.py) |
 | 006. | sum equal k | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/006_sum_equal_k.py) |
+| 058. | strict order | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/058_strict_order.py) |
 
 ### 3. Linked Lists
 |      | title | source | link |
@@ -21,6 +22,7 @@ Python 3.10.12
 | 007. | cycle in linked list | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/007_cycle_in_linked_list.py) |
 | 026. | remove node | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/026_remove_node.py) |
 | 051. | reverse linked list stack | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/051_reverse_linked_list_stack.py) |
+| 059. | merge linked lists | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/03_linked_lists/058_merge_linked_lists.py) |
 
 ### 4. Sortings
 |      | title | source | link |
@@ -62,6 +64,7 @@ Python 3.10.12
 | 029. | naive substring search | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/029_naive_substring_search.py) |
 | 030. | less naive substring search | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/030_less_naive_substring_search.py) |
 | 031. | rotate string | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/031_rotate_string.py) |
+| 057. | longest unique substring | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/058_longest_unique_substring.py) |
 
 ### 8. Graphs
 |      | title | source | link |
@@ -80,12 +83,15 @@ Python 3.10.12
 | 040. | fibonacci memo | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/040_fibonacci_memo.py) |
 | 041. | fibonacci iter | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/041_fibonacci_iter.py) |
 | 042. | ladder | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/042_ladder.py) |
+| 053. | levenshtein naive | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/053_levenshtein_naive.py) |
+| 054. | levenshtein opt | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/09_dynamic/054_levenshtein_opt.py) |
 
 ### 10. Greedy Algorithms
 |      | title | source | link |
 | :--- | :---- | :----- | :--- |
 | 043. | jumps | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/10_greedy/043_jumps.py) |
 | 046. | most water | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/10_greedy/046_container_with_most_water.py) |
+| 052. | coins exchange | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/10_greedy/052_coins_exchange.py) |
 
 ### 11. Problems
 |      | title | source | link |
@@ -95,8 +101,11 @@ Python 3.10.12
 | 047. | product array | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/047_product_array.py) |
 | 048. | product array opt | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/048_product_array_opt.py) |
 | 049. | sum equal k | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/049_sum_equal_k.py) |
+| 055. | roman to arabic naive | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/055_roman_to_arabic_naive.py) |
+| 056. | roman to arabic | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/11_problems/056_roman_to_arabic.py) |
 
 ### 12. Problems LeetCode
 |      | title | source | link |
 | :--- | :---- | :----- | :--- |
 | 0198. | house robber | [link](https://leetcode.com/problems/house-robber/description/) | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/12_problems_leetcode/0198_house_robber.py) |
+| 0009. | palindrome number | [link](https://leetcode.com/problems/palindrome-number/description/) | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/12_problems_leetcode/0009_palindrome_number.py) |
