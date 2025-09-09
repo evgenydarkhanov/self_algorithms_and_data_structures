@@ -18,6 +18,9 @@ Python 3.10.12
 | 062. | brackets check | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/061_brackets_check.py) |
 | 064. | rotate matrix right | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/064_rotate_matrix_right.py) |
 | 065. | rotate matrix left | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/065_rotate_matrix_left.py) |
+| 066. | snail matrix traverse | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/066_snail_matrix_traverse.py) |
+| 067. | square array | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/067_square_array.py) |
+| 070. | sum between i j | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/02_arrays/070_sum_between_i_j.py) |
 
 ### 3. Linked Lists
 |      | title | source | link |
@@ -57,6 +60,7 @@ Python 3.10.12
 | 025. | build BST | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/025_build_bst.py) |
 | 028. | n large | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/028_n_max.py) |
 | 050. | BST to SLL | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/050_bst_to_sll.py) |
+| 069. | tree minimax | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/05_trees/069_tree_minimax.py) |
 
 ### 6. Implementations
 |      | title | source | link |
@@ -71,6 +75,7 @@ Python 3.10.12
 | 031. | rotate string | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/031_rotate_string.py) |
 | 057. | longest unique substring | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/058_longest_unique_substring.py) |
 | 063. | drop near duplicates | vk x hse | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/063_drop_near_duplicates.py) |
+| 068. | is anagram | idk | [link](https://github.com/evgenydarkhanov/self_algorithms_and_data_structures/blob/main/07_strings/068_is_anagram.py) |
 
 ### 8. Graphs
 |      | title | source | link |
